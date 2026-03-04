@@ -1,0 +1,26 @@
+==>Authentication
+   =>register
+   =>Login
+   =>Logout
+==>Post
+   =>Create
+   =>Can see fedd
+   =>Like Post
+   =>Post
+==>Users
+   =>Followers
+   =>Following
+
+
+MONGO_URI = mongodb+srv://SCS:SCS123@cluster0.b96fl.mongodb.net/
+
+JWT_SECRET = d3fcd8a7e10e29c62e140b6feeca147bcb144c402a3fd1ce5129d4c4d8d2e373
+
+
+
+User :-
+      username
+      email
+      password
+      profile
+      bio
